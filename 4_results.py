@@ -785,8 +785,13 @@ def main():
     plot_sector_weights_capped(results, results["CMVO (5% Stock Cap)"])
     print("     -> figures/4d_sector_weights_capped.png")
 
+    # ── Figure 4e: Per-stock weight heatmap (capped variant) ──
+    print("[8] Per-Stock Weight Heatmap (CMVO vs 5% stock cap) ...")
+    plot_stock_weight_heatmap_capped(results, results["CMVO (5% Stock Cap)"])
+    print("     -> figures/4e_stock_weights_capped.png")
+
     print("\n" + "=" * 60)
-    print("  Done. 3 figures + 1 CSV saved.")
+    print("  Done. 4 figures + 1 CSV saved.")
     print("=" * 60)
 
 

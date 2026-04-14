@@ -589,8 +589,8 @@ def _black_cmap():
     ])
 
 
-def _plot_heatmap_pair(panels, dates, bounds, fname, sorted_tickers=None, show_tickers_top=False):
-    """Draw two heatmap panels with sector labels. Optionally show ticker names on the top panel.
+def _plot_heatmap_pair(panels, dates, bounds, fname, sorted_tickers=None, show_tickers_top=False, show_tickers_bottom=False):
+    """Draw two heatmap panels with sector labels. Optionally show ticker names on top/bottom panels.
 
     panels: list of (matrix, title, vmax, cbar_label) or
             (matrix, title, vmax, cbar_label, cmap_override)
@@ -613,8 +613,9 @@ def _plot_heatmap_pair(panels, dates, bounds, fname, sorted_tickers=None, show_t
                        interpolation="nearest", cmap=cmap,
                        vmin=0, vmax=vmax, origin="upper")
 
-        # Show ticker names on first panel if requested, sector labels only on second
-        if show_tickers_top and ax is axes_list[0] and sorted_tickers:
+        # Show ticker names on requested panels
+        if sorted_tickers and ((show_tickers_top and ax is axes_list[0]) or
+                                (show_tickers_bottom and ax is axes_list[1])):
             ax.set_yticks(range(n_tickers))
             ax.set_yticklabels(sorted_tickers, fontsize=11, color=PLOT_TEXT)
         else:
@@ -671,7 +672,8 @@ def plot_stock_weight_heatmap(results):
     _plot_heatmap_pair([
         (plain_mat, "Plain MV \u2014 Per-Stock Weight (Unconstrained)", shared_vmax, "Weight (%)"),
         (cmvo_mat, "CMVO \u2014 Per-Stock Weight (30% Cluster Cap)", shared_vmax, "Weight (%)"),
-    ], cmvo_dates, bounds, "4c_stock_weights_heatmap.png", sorted_tickers=st, show_tickers_top=True)
+    ], cmvo_dates, bounds, "4c_stock_weights_heatmap.png", sorted_tickers=st,
+       show_tickers_top=True, show_tickers_bottom=True)
 
 
 # ═══════════════════════════════════════════════════════════
@@ -740,7 +742,8 @@ def plot_stock_weight_heatmap_capped(results, capped):
          "Weight (%)"),
         (capped_mat, "CMVO \u2014 Per-Stock Weight (30% cluster cap + 5% stock cap)", 30,
          "Weight (%)"),
-    ], cmvo_dates, bounds, "4e_stock_weights_capped.png", sorted_tickers=st, show_tickers_top=True)
+    ], cmvo_dates, bounds, "4e_stock_weights_capped.png", sorted_tickers=st,
+       show_tickers_top=True, show_tickers_bottom=True)
 
 
 # ═══════════════════════════════════════════════════════════
@@ -782,13 +785,8 @@ def main():
     plot_sector_weights_capped(results, results["CMVO (5% Stock Cap)"])
     print("     -> figures/4d_sector_weights_capped.png")
 
-    # ── Figure 4e: Per-stock weight heatmap (capped variant) ──
-    print("[8] Per-Stock Weight Heatmap (CMVO vs 5% stock cap) ...")
-    plot_stock_weight_heatmap_capped(results, results["CMVO (5% Stock Cap)"])
-    print("     -> figures/4e_stock_weights_capped.png")
-
     print("\n" + "=" * 60)
-    print("  Done. 4 figures + 1 CSV saved.")
+    print("  Done. 3 figures + 1 CSV saved.")
     print("=" * 60)
 
 

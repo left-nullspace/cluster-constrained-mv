@@ -1,0 +1,37 @@
+Strategy,Path,Sharpe
+CMVO,Path 1,0.988649
+CMVO,Path 2,1.026836
+CMVO,Path 3,0.920078
+CMVO,Path 4,0.819814
+CMVO,Path 5,0.90275
+CMVO,Path 6,0.946279
+CMVO,Path 7,0.88966
+CMVO,Path 8,0.853549
+CMVO,Path 9,0.854197
+CMVO (5% Stock Cap),Path 1,1.106505
+CMVO (5% Stock Cap),Path 2,1.064074
+CMVO (5% Stock Cap),Path 3,1.095517
+CMVO (5% Stock Cap),Path 4,1.103569
+CMVO (5% Stock Cap),Path 5,1.092773
+CMVO (5% Stock Cap),Path 6,1.125822
+CMVO (5% Stock Cap),Path 7,1.051512
+CMVO (5% Stock Cap),Path 8,1.111599
+CMVO (5% Stock Cap),Path 9,1.074372
+Plain MV,Path 1,0.969718
+Plain MV,Path 2,1.044738
+Plain MV,Path 3,0.910394
+Plain MV,Path 4,0.825987
+Plain MV,Path 5,0.862922
+Plain MV,Path 6,0.923583
+Plain MV,Path 7,0.84426
+Plain MV,Path 8,0.829292
+Plain MV,Path 9,0.875758
+Equal Weight (1/N),Path 1,0.998766
+Equal Weight (1/N),Path 2,0.998766
+Equal Weight (1/N),Path 3,0.998766
+Equal Weight (1/N),Path 4,0.998766
+Equal Weight (1/N),Path 5,0.998766
+Equal Weight (1/N),Path 6,0.998766
+Equal Weight (1/N),Path 7,0.998766
+Equal Weight (1/N),Path 8,0.998766
+Equal Weight (1/N),Path 9,0.998766

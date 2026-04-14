@@ -1,0 +1,34 @@
+Cluster,Ticker,Sector
+C1,NEE,Utilities
+C1,DUK,Utilities
+C1,SO,Utilities
+C2,VZ,Communication Services
+C2,WMT,Consumer Staples
+C2,COST,Consumer Staples
+C2,PG,Consumer Staples
+C2,LLY,Health Care
+C2,UNH,Health Care
+C2,JNJ,Health Care
+C3,XOM,Energy
+C3,CVX,Energy
+C3,SLB,Energy
+C3,CAT,Industrials
+C3,FCX,Materials
+C4,NEM,Materials
+C5,GOOGL,Communication Services
+C5,NFLX,Communication Services
+C5,AMZN,Consumer Discretionary
+C5,BKNG,Consumer Discretionary
+C5,NVDA,Information Technology
+C5,MU,Information Technology
+C5,MSFT,Information Technology
+C6,HD,Consumer Discretionary
+C6,JPM,Financials
+C6,BRK.B,Financials
+C6,GS,Financials
+C6,BA,Industrials
+C6,GE,Industrials
+C6,LIN,Materials
+C6,AMT,Real Estate
+C6,WELL,Real Estate
+C6,EQIX,Real Estate

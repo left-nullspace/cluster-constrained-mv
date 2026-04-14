@@ -1,0 +1,34 @@
+ticker,sector
+GOOGL,Communication Services
+NFLX,Communication Services
+VZ,Communication Services
+AMZN,Consumer Discretionary
+HD,Consumer Discretionary
+BKNG,Consumer Discretionary
+WMT,Consumer Staples
+COST,Consumer Staples
+PG,Consumer Staples
+XOM,Energy
+CVX,Energy
+SLB,Energy
+JPM,Financials
+BRK.B,Financials
+GS,Financials
+LLY,Health Care
+UNH,Health Care
+JNJ,Health Care
+BA,Industrials
+GE,Industrials
+CAT,Industrials
+NVDA,Information Technology
+MU,Information Technology
+MSFT,Information Technology
+FCX,Materials
+NEM,Materials
+LIN,Materials
+AMT,Real Estate
+WELL,Real Estate
+EQIX,Real Estate
+NEE,Utilities
+DUK,Utilities
+SO,Utilities

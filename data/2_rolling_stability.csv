@@ -1,0 +1,3 @@
+Metric,Mean,Std,Min,Max
+Adjusted Rand Index,0.939,0.116,0.394,1.000
+Cluster Persistence,0.945,0.107,0.392,1.000

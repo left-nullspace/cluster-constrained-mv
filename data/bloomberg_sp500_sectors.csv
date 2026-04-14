@@ -1,0 +1,504 @@
+ticker,sector,bloomberg_sector
+CDW,Information Technology,S5INFT
+APP,Information Technology,S5INFT
+HPQ,Information Technology,S5INFT
+TDY,Information Technology,S5INFT
+IBM,Information Technology,S5INFT
+APH,Information Technology,S5INFT
+DDOG,Information Technology,S5INFT
+ACN,Information Technology,S5INFT
+VRSN,Information Technology,S5INFT
+PTC,Information Technology,S5INFT
+CSCO,Information Technology,S5INFT
+SNDK,Information Technology,S5INFT
+INTC,Information Technology,S5INFT
+PANW,Information Technology,S5INFT
+MSFT,Information Technology,S5INFT
+NVDA,Information Technology,S5INFT
+CTSH,Information Technology,S5INFT
+GDDY,Information Technology,S5INFT
+PLTR,Information Technology,S5INFT
+STX,Information Technology,S5INFT
+FFIV,Information Technology,S5INFT
+AKAM,Information Technology,S5INFT
+TXN,Information Technology,S5INFT
+WDC,Information Technology,S5INFT
+CRWD,Information Technology,S5INFT
+IT,Information Technology,S5INFT
+NOW,Information Technology,S5INFT
+CRM,Information Technology,S5INFT
+AMD,Information Technology,S5INFT
+ADBE,Information Technology,S5INFT
+Q,Information Technology,S5INFT
+AAPL,Information Technology,S5INFT
+ADSK,Information Technology,S5INFT
+KLAC,Information Technology,S5INFT
+ORCL,Information Technology,S5INFT
+ANET,Information Technology,S5INFT
+AVGO,Information Technology,S5INFT
+CDNS,Information Technology,S5INFT
+MPWR,Information Technology,S5INFT
+TYL,Information Technology,S5INFT
+SWKS,Information Technology,S5INFT
+GLW,Information Technology,S5INFT
+AMAT,Information Technology,S5INFT
+SNPS,Information Technology,S5INFT
+HPE,Information Technology,S5INFT
+FSLR,Information Technology,S5INFT
+CIEN,Information Technology,S5INFT
+DELL,Information Technology,S5INFT
+LRCX,Information Technology,S5INFT
+SMCI,Information Technology,S5INFT
+ON,Information Technology,S5INFT
+ADI,Information Technology,S5INFT
+QCOM,Information Technology,S5INFT
+TRMB,Information Technology,S5INFT
+GEN,Information Technology,S5INFT
+TER,Information Technology,S5INFT
+KEYS,Information Technology,S5INFT
+INTU,Information Technology,S5INFT
+ZBRA,Information Technology,S5INFT
+MCHP,Information Technology,S5INFT
+EPAM,Information Technology,S5INFT
+COHR,Information Technology,S5INFT
+WDAY,Information Technology,S5INFT
+JBL,Information Technology,S5INFT
+LITE,Information Technology,S5INFT
+TEL,Information Technology,S5INFT
+ROP,Information Technology,S5INFT
+NXPI,Information Technology,S5INFT
+MU,Information Technology,S5INFT
+MSI,Information Technology,S5INFT
+FTNT,Information Technology,S5INFT
+NTAP,Information Technology,S5INFT
+FICO,Information Technology,S5INFT
+AXP,Financials,S5FINL
+JPM,Financials,S5FINL
+BRO,Financials,S5FINL
+ACGL,Financials,S5FINL
+PNC,Financials,S5FINL
+EG,Financials,S5FINL
+PGR,Financials,S5FINL
+BAC,Financials,S5FINL
+TRV,Financials,S5FINL
+SCHW,Financials,S5FINL
+GPN,Financials,S5FINL
+C,Financials,S5FINL
+AIG,Financials,S5FINL
+TFC,Financials,S5FINL
+GS,Financials,S5FINL
+MCO,Financials,S5FINL
+BX,Financials,S5FINL
+AFL,Financials,S5FINL
+CBOE,Financials,S5FINL
+ERIE,Financials,S5FINL
+GL,Financials,S5FINL
+CME,Financials,S5FINL
+ARES,Financials,S5FINL
+NDAQ,Financials,S5FINL
+BK,Financials,S5FINL
+CPAY,Financials,S5FINL
+MET,Financials,S5FINL
+BRK.B,Financials,S5FINL
+BLK,Financials,S5FINL
+AMP,Financials,S5FINL
+MA,Financials,S5FINL
+RJF,Financials,S5FINL
+ICE,Financials,S5FINL
+FIS,Financials,S5FINL
+AJG,Financials,S5FINL
+HOOD,Financials,S5FINL
+CFG,Financials,S5FINL
+AIZ,Financials,S5FINL
+RF,Financials,S5FINL
+JKHY,Financials,S5FINL
+CINF,Financials,S5FINL
+AON,Financials,S5FINL
+MTB,Financials,S5FINL
+FISV,Financials,S5FINL
+XYZ,Financials,S5FINL
+FITB,Financials,S5FINL
+FDS,Financials,S5FINL
+V,Financials,S5FINL
+HBAN,Financials,S5FINL
+COIN,Financials,S5FINL
+BEN,Financials,S5FINL
+IBKR,Financials,S5FINL
+NTRS,Financials,S5FINL
+PYPL,Financials,S5FINL
+KKR,Financials,S5FINL
+MSCI,Financials,S5FINL
+SYF,Financials,S5FINL
+KEY,Financials,S5FINL
+WTW,Financials,S5FINL
+STT,Financials,S5FINL
+USB,Financials,S5FINL
+TROW,Financials,S5FINL
+IVZ,Financials,S5FINL
+MS,Financials,S5FINL
+WRB,Financials,S5FINL
+APO,Financials,S5FINL
+CB,Financials,S5FINL
+PFG,Financials,S5FINL
+ALL,Financials,S5FINL
+L,Financials,S5FINL
+MRSH,Financials,S5FINL
+PRU,Financials,S5FINL
+SPGI,Financials,S5FINL
+COF,Financials,S5FINL
+WFC,Financials,S5FINL
+HIG,Financials,S5FINL
+OMC,Communication Services,S5TELS
+VZ,Communication Services,S5TELS
+DIS,Communication Services,S5TELS
+GOOGL,Communication Services,S5TELS
+T,Communication Services,S5TELS
+CHTR,Communication Services,S5TELS
+GOOGL,Communication Services,S5TELS
+NFLX,Communication Services,S5TELS
+CMCSA,Communication Services,S5TELS
+TKO,Communication Services,S5TELS
+EA,Communication Services,S5TELS
+SATS,Communication Services,S5TELS
+META,Communication Services,S5TELS
+TTWO,Communication Services,S5TELS
+NWS,Communication Services,S5TELS
+PSKY,Communication Services,S5TELS
+WBD,Communication Services,S5TELS
+LYV,Communication Services,S5TELS
+TMUS,Communication Services,S5TELS
+FOXA,Communication Services,S5TELS
+FOX,Communication Services,S5TELS
+NWSA,Communication Services,S5TELS
+TTD,Communication Services,S5TELS
+TSCO,Consumer Discretionary,S5COND
+PHM,Consumer Discretionary,S5COND
+AMZN,Consumer Discretionary,S5COND
+HD,Consumer Discretionary,S5COND
+RL,Consumer Discretionary,S5COND
+MCD,Consumer Discretionary,S5COND
+YUM,Consumer Discretionary,S5COND
+ABNB,Consumer Discretionary,S5COND
+EBAY,Consumer Discretionary,S5COND
+BKNG,Consumer Discretionary,S5COND
+DECK,Consumer Discretionary,S5COND
+TJX,Consumer Discretionary,S5COND
+DASH,Consumer Discretionary,S5COND
+AZO,Consumer Discretionary,S5COND
+POOL,Consumer Discretionary,S5COND
+TPR,Consumer Discretionary,S5COND
+BBY,Consumer Discretionary,S5COND
+NVR,Consumer Discretionary,S5COND
+LVS,Consumer Discretionary,S5COND
+CCL,Consumer Discretionary,S5COND
+HLT,Consumer Discretionary,S5COND
+CVNA,Consumer Discretionary,S5COND
+CMG,Consumer Discretionary,S5COND
+WYNN,Consumer Discretionary,S5COND
+DPZ,Consumer Discretionary,S5COND
+LULU,Consumer Discretionary,S5COND
+EXPE,Consumer Discretionary,S5COND
+NCLH,Consumer Discretionary,S5COND
+DHI,Consumer Discretionary,S5COND
+MGM,Consumer Discretionary,S5COND
+GM,Consumer Discretionary,S5COND
+ULTA,Consumer Discretionary,S5COND
+HAS,Consumer Discretionary,S5COND
+F,Consumer Discretionary,S5COND
+GPC,Consumer Discretionary,S5COND
+MAR,Consumer Discretionary,S5COND
+ROST,Consumer Discretionary,S5COND
+SBUX,Consumer Discretionary,S5COND
+GRMN,Consumer Discretionary,S5COND
+ORLY,Consumer Discretionary,S5COND
+LEN,Consumer Discretionary,S5COND
+TSLA,Consumer Discretionary,S5COND
+LOW,Consumer Discretionary,S5COND
+WSM,Consumer Discretionary,S5COND
+DRI,Consumer Discretionary,S5COND
+NKE,Consumer Discretionary,S5COND
+APTV,Consumer Discretionary,S5COND
+RCL,Consumer Discretionary,S5COND
+PODD,Health Care,S5HLTH
+DGX,Health Care,S5HLTH
+RMD,Health Care,S5HLTH
+JNJ,Health Care,S5HLTH
+MTD,Health Care,S5HLTH
+MRK,Health Care,S5HLTH
+PFE,Health Care,S5HLTH
+IDXX,Health Care,S5HLTH
+IQV,Health Care,S5HLTH
+ISRG,Health Care,S5HLTH
+ALGN,Health Care,S5HLTH
+CI,Health Care,S5HLTH
+INCY,Health Care,S5HLTH
+ABT,Health Care,S5HLTH
+TMO,Health Care,S5HLTH
+A,Health Care,S5HLTH
+UNH,Health Care,S5HLTH
+ELV,Health Care,S5HLTH
+COO,Health Care,S5HLTH
+BAX,Health Care,S5HLTH
+BDX,Health Care,S5HLTH
+BSX,Health Care,S5HLTH
+BMY,Health Care,S5HLTH
+EW,Health Care,S5HLTH
+AMGN,Health Care,S5HLTH
+HOLX,Health Care,S5HLTH
+ZBH,Health Care,S5HLTH
+ABBV,Health Care,S5HLTH
+REGN,Health Care,S5HLTH
+UHS,Health Care,S5HLTH
+SYK,Health Care,S5HLTH
+DHR,Health Care,S5HLTH
+CAH,Health Care,S5HLTH
+GEHC,Health Care,S5HLTH
+RVTY,Health Care,S5HLTH
+WST,Health Care,S5HLTH
+HSIC,Health Care,S5HLTH
+GILD,Health Care,S5HLTH
+HCA,Health Care,S5HLTH
+BIIB,Health Care,S5HLTH
+VRTX,Health Care,S5HLTH
+TECH,Health Care,S5HLTH
+CRL,Health Care,S5HLTH
+HUM,Health Care,S5HLTH
+LH,Health Care,S5HLTH
+CNC,Health Care,S5HLTH
+LLY,Health Care,S5HLTH
+VTRS,Health Care,S5HLTH
+MRNA,Health Care,S5HLTH
+MDT,Health Care,S5HLTH
+CVS,Health Care,S5HLTH
+MCK,Health Care,S5HLTH
+COR,Health Care,S5HLTH
+WAT,Health Care,S5HLTH
+STE,Health Care,S5HLTH
+DXCM,Health Care,S5HLTH
+SOLV,Health Care,S5HLTH
+DVA,Health Care,S5HLTH
+ZTS,Health Care,S5HLTH
+LII,Industrials,S5INDU
+BA,Industrials,S5INDU
+PH,Industrials,S5INDU
+CAT,Industrials,S5INDU
+ROK,Industrials,S5INDU
+GE,Industrials,S5INDU
+CPRT,Industrials,S5INDU
+GNRC,Industrials,S5INDU
+MMM,Industrials,S5INDU
+CHRW,Industrials,S5INDU
+RTX,Industrials,S5INDU
+UBER,Industrials,S5INDU
+PWR,Industrials,S5INDU
+SNA,Industrials,S5INDU
+LUV,Industrials,S5INDU
+RSG,Industrials,S5INDU
+SWK,Industrials,S5INDU
+BR,Industrials,S5INDU
+TXT,Industrials,S5INDU
+VLTO,Industrials,S5INDU
+EXPD,Industrials,S5INDU
+HUBB,Industrials,S5INDU
+JCI,Industrials,S5INDU
+IEX,Industrials,S5INDU
+UNP,Industrials,S5INDU
+CARR,Industrials,S5INDU
+ADP,Industrials,S5INDU
+OTIS,Industrials,S5INDU
+WAB,Industrials,S5INDU
+ALLE,Industrials,S5INDU
+NDSN,Industrials,S5INDU
+IR,Industrials,S5INDU
+ODFL,Industrials,S5INDU
+CSX,Industrials,S5INDU
+AOS,Industrials,S5INDU
+TDG,Industrials,S5INDU
+CTAS,Industrials,S5INDU
+ROL,Industrials,S5INDU
+PCAR,Industrials,S5INDU
+J,Industrials,S5INDU
+CMI,Industrials,S5INDU
+DE,Industrials,S5INDU
+DOV,Industrials,S5INDU
+ETN,Industrials,S5INDU
+LDOS,Industrials,S5INDU
+EMR,Industrials,S5INDU
+FAST,Industrials,S5INDU
+EFX,Industrials,S5INDU
+FDX,Industrials,S5INDU
+XYL,Industrials,S5INDU
+HWM,Industrials,S5INDU
+JBHT,Industrials,S5INDU
+PNR,Industrials,S5INDU
+AXON,Industrials,S5INDU
+FIX,Industrials,S5INDU
+GD,Industrials,S5INDU
+FTV,Industrials,S5INDU
+PAYX,Industrials,S5INDU
+GEV,Industrials,S5INDU
+GWW,Industrials,S5INDU
+URI,Industrials,S5INDU
+LHX,Industrials,S5INDU
+WM,Industrials,S5INDU
+ITW,Industrials,S5INDU
+TT,Industrials,S5INDU
+HII,Industrials,S5INDU
+HON,Industrials,S5INDU
+MAS,Industrials,S5INDU
+UPS,Industrials,S5INDU
+AME,Industrials,S5INDU
+DAL,Industrials,S5INDU
+LMT,Industrials,S5INDU
+VRSK,Industrials,S5INDU
+UAL,Industrials,S5INDU
+NSC,Industrials,S5INDU
+BLDR,Industrials,S5INDU
+NOC,Industrials,S5INDU
+VRT,Industrials,S5INDU
+EME,Industrials,S5INDU
+KVUE,Consumer Staples,S5CONS
+EL,Consumer Staples,S5CONS
+MDLZ,Consumer Staples,S5CONS
+KO,Consumer Staples,S5CONS
+PG,Consumer Staples,S5CONS
+SJM,Consumer Staples,S5CONS
+MO,Consumer Staples,S5CONS
+SYY,Consumer Staples,S5CONS
+KHC,Consumer Staples,S5CONS
+ADM,Consumer Staples,S5CONS
+KDP,Consumer Staples,S5CONS
+PM,Consumer Staples,S5CONS
+BF/B,Consumer Staples,S5CONS
+WMT,Consumer Staples,S5CONS
+TAP,Consumer Staples,S5CONS
+CLX,Consumer Staples,S5CONS
+MKC,Consumer Staples,S5CONS
+CL,Consumer Staples,S5CONS
+CAG,Consumer Staples,S5CONS
+COST,Consumer Staples,S5CONS
+TSN,Consumer Staples,S5CONS
+TGT,Consumer Staples,S5CONS
+CHD,Consumer Staples,S5CONS
+KMB,Consumer Staples,S5CONS
+CPB,Consumer Staples,S5CONS
+DG,Consumer Staples,S5CONS
+GIS,Consumer Staples,S5CONS
+HSY,Consumer Staples,S5CONS
+PEP,Consumer Staples,S5CONS
+HRL,Consumer Staples,S5CONS
+BG,Consumer Staples,S5CONS
+STZ,Consumer Staples,S5CONS
+KR,Consumer Staples,S5CONS
+MNST,Consumer Staples,S5CONS
+DLTR,Consumer Staples,S5CONS
+OXY,Energy,S5ENRS
+OKE,Energy,S5ENRS
+CVX,Energy,S5ENRS
+COP,Energy,S5ENRS
+XOM,Energy,S5ENRS
+VLO,Energy,S5ENRS
+TRGP,Energy,S5ENRS
+SLB,Energy,S5ENRS
+BKR,Energy,S5ENRS
+DVN,Energy,S5ENRS
+WMB,Energy,S5ENRS
+CTRA,Energy,S5ENRS
+PSX,Energy,S5ENRS
+TPL,Energy,S5ENRS
+APA,Energy,S5ENRS
+EOG,Energy,S5ENRS
+KMI,Energy,S5ENRS
+EQT,Energy,S5ENRS
+MPC,Energy,S5ENRS
+HAL,Energy,S5ENRS
+EXE,Energy,S5ENRS
+FANG,Energy,S5ENRS
+PCG,Utilities,S5UTIL
+PPL,Utilities,S5UTIL
+PNW,Utilities,S5UTIL
+ATO,Utilities,S5UTIL
+PEG,Utilities,S5UTIL
+FE,Utilities,S5UTIL
+EIX,Utilities,S5UTIL
+AEE,Utilities,S5UTIL
+SO,Utilities,S5UTIL
+SRE,Utilities,S5UTIL
+EVRG,Utilities,S5UTIL
+XEL,Utilities,S5UTIL
+DTE,Utilities,S5UTIL
+WEC,Utilities,S5UTIL
+AES,Utilities,S5UTIL
+VST,Utilities,S5UTIL
+CEG,Utilities,S5UTIL
+AEP,Utilities,S5UTIL
+CMS,Utilities,S5UTIL
+LNT,Utilities,S5UTIL
+ED,Utilities,S5UTIL
+NRG,Utilities,S5UTIL
+D,Utilities,S5UTIL
+AWK,Utilities,S5UTIL
+DUK,Utilities,S5UTIL
+ETR,Utilities,S5UTIL
+EXC,Utilities,S5UTIL
+NEE,Utilities,S5UTIL
+CNP,Utilities,S5UTIL
+NI,Utilities,S5UTIL
+ES,Utilities,S5UTIL
+PPG,Materials,S5MATR
+ALB,Materials,S5MATR
+SHW,Materials,S5MATR
+LIN,Materials,S5MATR
+IP,Materials,S5MATR
+APD,Materials,S5MATR
+AVY,Materials,S5MATR
+BALL,Materials,S5MATR
+VMC,Materials,S5MATR
+PKG,Materials,S5MATR
+LYB,Materials,S5MATR
+CRH,Materials,S5MATR
+MOS,Materials,S5MATR
+SW,Materials,S5MATR
+DOW,Materials,S5MATR
+CF,Materials,S5MATR
+ECL,Materials,S5MATR
+FCX,Materials,S5MATR
+IFF,Materials,S5MATR
+AMCR,Materials,S5MATR
+CTVA,Materials,S5MATR
+MLM,Materials,S5MATR
+NEM,Materials,S5MATR
+STLD,Materials,S5MATR
+DD,Materials,S5MATR
+NUE,Materials,S5MATR
+IRM,Real Estate,S5RLST
+MAA,Real Estate,S5RLST
+AMT,Real Estate,S5RLST
+BXP,Real Estate,S5RLST
+CSGP,Real Estate,S5RLST
+PLD,Real Estate,S5RLST
+CPT,Real Estate,S5RLST
+ESS,Real Estate,S5RLST
+CCI,Real Estate,S5RLST
+PSA,Real Estate,S5RLST
+O,Real Estate,S5RLST
+VTR,Real Estate,S5RLST
+WY,Real Estate,S5RLST
+EQIX,Real Estate,S5RLST
+DLR,Real Estate,S5RLST
+CBRE,Real Estate,S5RLST
+EXR,Real Estate,S5RLST
+VICI,Real Estate,S5RLST
+FRT,Real Estate,S5RLST
+WELL,Real Estate,S5RLST
+SBAC,Real Estate,S5RLST
+DOC,Real Estate,S5RLST
+KIM,Real Estate,S5RLST
+INVH,Real Estate,S5RLST
+EQR,Real Estate,S5RLST
+UDR,Real Estate,S5RLST
+SPG,Real Estate,S5RLST
+AVB,Real Estate,S5RLST
+REG,Real Estate,S5RLST
+HST,Real Estate,S5RLST
+ARE,Real Estate,S5RLST

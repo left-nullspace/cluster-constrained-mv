@@ -1,0 +1,4 @@
+Config,Ann. Sharpe,OOS Std %,ES (5%) %,Median Wkly Ret %,Kurtosis,HHI,Avg Turnover %
+Cov=Sample,1.16,2.54,-5.543,0.513,4.15,0.1927,15.1
+Cov=Ledoit-Wolf,1.17,2.54,-5.552,0.526,4.0,0.1789,14.4
+Cov=Oracle Approx.,1.16,2.54,-5.549,0.509,4.08,0.1862,14.8

@@ -1,0 +1,5 @@
+Config,Ann. Sharpe,OOS Std %,ES (5%) %,Median Wkly Ret %,Kurtosis,HHI,Avg Turnover %
+Lookback=2,1.11,2.433,-5.318,0.415,1.94,0.2044,25.5
+Lookback=3,1.06,2.462,-5.715,0.518,2.44,0.2037,19.2
+Lookback=4,1.15,2.454,-5.589,0.536,2.81,0.1972,16.6
+Lookback=5,1.16,2.54,-5.543,0.513,4.15,0.1927,15.1
